@@ -12,14 +12,9 @@
 
 <p align="left">✨ Creating bugs since ... 2020<br>📚 I'm currently learning ... a lot ...<br>🎯 Goals: ... Learning to  be the best programmer i can be. I believe i can make an impact.<br>🎲 Fun fact: ... I love African Literature.</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
 <br>
 
-## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack
+## <img src="/gato.gif" width="50" align="center"> &nbsp;Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -48,7 +43,7 @@
 </div>
 
 ###
-
+## <img src="/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DamiAdeeso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DamiAdeeso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
